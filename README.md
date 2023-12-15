@@ -3,6 +3,5 @@
 ```
 npx expo start
 ```
-[![]()]([https://youtu.be/5aKI900iGVo?t=1336](https://youtube.com/shorts/zVaCiXeOUW4?feature=share))
-
-<video src="https://youtube.com/shorts/zVaCiXeOUW4?feature=share"></video>
+・アプリの動画
+https://youtube.com/shorts/zVaCiXeOUW4?feature=share
